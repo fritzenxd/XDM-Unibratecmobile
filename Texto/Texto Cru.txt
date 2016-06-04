@@ -1,0 +1,131 @@
+IBRATEC
+Cadeira: Fundamentos do Design
+CSTDG 2016.1 Noite
+Prof.: André Melo
+Alunos: Deric Venâncio, Gabriel Braúna, Leandro José, Tayná Muniz e Walber Mesquita
+
+XDM do aplicativo UNIBRATECmobile
+
+	
+                 UNIBRATECmobile
+
+Resumo
+
+O resumo traz uma resolução de um problema, discutida pelos alunos da turma CSTDG 2016.1 a partir de uma pesquisa feita pelas redes sociais e fundamentada pela metodologia XDM, que seria basicamente um aplicativo para celular da Faculdade IBRATEC, para solucionarmos os problemas de entrega das notas (que alguns alunos não estão conseguindo abrir o portal do aluno) e acrescentar o agendamento e a renovação de livros por esse mesmo aplicativo.
+
+Palavras-chave: Metodologia XDM; Aplicativo; UNIBRATECmobile
+
+
+Summary
+
+The summary provides a resolution of a problem, discussed by students of CSTDG 2016.1 class from a survey by social networks and grounded by XDM methodology, which was basically a mobile app IBRATEC college, for us to solve the delivery problems of notes (that some students that coudn’t open student portal) and add the schedule and the renewal of books by the same application.
+
+Keywords: XDM Methodology; app; UNIBRATECmobile
+
+
+
+
+
+
+
+
+
+
+	1. Introdução
+
+Em meio aos avanços tecnológicos, percebemos suas consequências de forma bem visíveis como a necessidade de uma agilidade em que antes não se via, atualmente não queremos esperar muito para uma resposta de uma pessoa em determinados aplicativos, estamos, cada vez mais em busca de agilidade e facilidades. 
+Visando isso os alunos, Deric Venâncio, Gabriel Braúna, Leandro José, Tayná Muniz e Walber Mesquita, do Curso Superior em Design Gráfico da Faculdade IBRATEC perceberam uma necessidade na comunicação mais rápida e direta entre determinadas funções da instituição com os alunos. Observamos assim, uma ausência de um aplicativo que pudesse solucionar este problema.
+Surge então o UNIBRATECmobile, com o intuito de agilizar a visualização dos livros disponíveis no acervo da biblioteca, permitir os alunos serem atualizados quanto ao calendário acadêmico, visualizar o boleto, e facilitar o acesso dos mesmos as suas notas.
+
+
+2. Referencial teórico
+
+A abordagem proposta nesse projeto constitui o desenvolvimento de um aplicativo utilizando o método XDM (eXtensible Design Methods) referente ao desenvolvimento do aplicativo, que nos levou a solução do problema. Adiante será descrito esse método.
+
+2.1 XDM
+
+É uma metodologia usada para a elaboração de artefatos. Criada por alunos e professores da UFPE (Universidade Federal de Pernambuco) que tem por principal característica a liberdade de iteração do ciclos, que usam outros métodos do design que podem sofrer mudanças.
+
+O XDM é composto pelos seguintes tópicos: 
+
+?	Evolução histórica - Método de investigação que irá reunir informações mais importantes de um artefato ao longo do tempo.
+?	Pesquisa por imersão - Pontos fortes e fracos entre o usuário e artefatos concorrentes ao que se pretende fazer.
+?	Estimativa de mercado - Instrumento demonstrativo que da relevância econômica ao projeto.
+?	Definições da motivações iniciais - Pesquisas em redes sociais virtuais, que dão os principais elementos da motivação para o projeto.
+?	Definição de personas - Os usuários do produto.
+?	Comparação com similares - Pesquisa sobre seus concorrentes, para identificar seus pontos fortes e fracos.
+?	Analise de tendencias - Pesquisa com base na identificação e na utilização de novas tecnologias.
+?	Analogias e metáforas - Atividade de associação entre soluções já aplicadas as outras áreas e o artefato que se pretende desenvolver.
+?	Brainstorming - Um método que visa uma  “chuva de ideias”, todos os participantes irão criar uma oportunidade de solução para determinado um problema.
+?	Brainwrite - Reunião das ideias levantadas na sessão de Brainstorming, visando a evolução das mesmas.
+?	Caixa morfológica - Matriz construída para facilitar o desenvolvimento das novas e soluções.
+?	Avaliação Heurística - Analisa a solução proposta para o problema, apontando violações e propondo intervenções que minimizem.
+?	Casos de uso - Documento deverá ter um storyboard de utilização do artefato, comentando suas situações de uso.
+?	Especificações - Documento deverá ter detalhes do artefato e seus componentes.
+ 
+3. Desenvolvimento XDM
+
+O método utilizado pelo grupo foi o XDM, também visando que estamos na época da informação em alta velocidade, com o objetivo de receber dados de forma mais simples e integra, sempre garantindo a disponibilidade. Neste tópico, vamos fazer a abordagem das pesquisas e métodos usados para chegar ao modelo final do nosso artefato.
+
+As pesquisas foram feitas em cima de programas que tem como função facilitar o desenvolvimento de aplicativos para as plataformas mobile (Android, iOS) com o objetivo de escolher entre eles o que tenha a interface mais viável para nosso projeto. 
+
+Ao verificar outros apps de funcionalidades parecidas, pensamos em um diferencial para o nosso, seria a ideia de uma biblioteca virtual, onde os alunos cadastrados com sua matrícula no sistema poderiam verificar disponibilidades de determinados livros, fazer cadastros de reserva e também verificar possível lista de espera, para o caso de livros em menor quantidade.
+
+
+4.  Exploração do Problema
+4.1  Persona
+
+A partir da observação feita pelo grupo do trabalho, partimos para verificar se esta necessidade também seria dos outros alunos, alunos estes da mesma instituição (IBRATEC), eles relatam a dificuldade em ver suas notas no site da organização, outros alunos relataram a dificuldade de receber informações do calendário acadêmico ou mesmo de algum imprevisto causando assim o cancelamento de algum aula, pois infelizmente alunos que moram em cidades distantes da capital Recife não conseguem receber um e-mail de cancelamento de aula a tempo, antes que os mesmos saíam de suas casas, por conta da distância eles precisam sair mais de 2 horas antes para pegar o transporte. 
+Concluímos que esta dificuldade também é vista pelos outros alunos.
+Com o UNIBRATECmobile os alunos teriam a facilidade e agilidade nas informações, de forma que poderiam evitar, de forma mais eficaz, constrangimentos.
+
+        
+5. Desenvolvimento do aplicativo 
+
+Após a pesquisa ter sido realizada notamos que a maioria dos aplicativos apresentam somente as informações sobre as notas de alunos e sobre a grade de aulas, a fim de deixar o tempo do estudante mais acessível para o mesmo, pretendemos facilitar o acesso ao material de estudo e facilitar a forma de pagamento da sua mensalidade.
+
+
+6. Método de descrição da solução 
+
+6.1 Solução do Aplicativo 
+
+O UNIBRATECmobile foi desenvolvido na finalidade de agilizar a vida do estudante, após realizar uma breve pesquisa observamos que maioria dos estudantes sofre com a falta de disponibilidade para poder estar presente na biblioteca.  
+Além de lhe possibilitar obter um livro da biblioteca virtual sem precisar aguardar o livro ser devolvido por outra pessoa sem se preocupar com tempo de devolução ou danificar o mesmo poderá ser baixado no mesmo um cópia do boleto referente a mensalidade o arquivo seque no formato de PDF para facilitar a visualização.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Considerações Finais
+
+Esse documento buscou trazer informações mais detalhadas sobre os problemas dos alunos da instituição, foram realizadas pesquisas pelos integrantes do grupo com pessoas que sofriam com problemas similares aos problemas destacados.
+
+Após a análise do problema, foram estudados os possíveis meios de encontrar uma solução. A forma mais viável de obter êxito foi pela decisão da criação de um aplicativo, onde poderíamos oferecer suporte de materiais didáticos, possibilidade de observar a grade de aulas do dia e poder emitir o boleto referente ao pagamento da parcela do mês.
+
+    
+8. Referências
+
+
+
+http://www.unibratec.edu.br/tecnologus/wp-content/uploads/2010/12/melo.pdf
+
+http://www.designculture.com.br/metodologias-do-design-xdm-extensible-design-methods
+
+
+
+
