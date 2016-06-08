@@ -22,15 +22,6 @@ The summary provides a resolution of a problem, discussed by students of CSTDG 2
 
 Keywords: XDM Methodology; app; UNIBRATECmobile
 
-
-
-
-
-
-
-
-
-
 	1. Introdução
 
 Em meio aos avanços tecnológicos, percebemos suas consequências de forma bem visíveis como a necessidade de uma agilidade em que antes não se via, atualmente não queremos esperar muito para uma resposta de uma pessoa em determinados aplicativos, estamos, cada vez mais em busca de agilidade e facilidades. 
@@ -93,24 +84,6 @@ O UNIBRATECmobile foi desenvolvido na finalidade de agilizar a vida do estudante
 Além de lhe possibilitar obter um livro da biblioteca virtual sem precisar aguardar o livro ser devolvido por outra pessoa sem se preocupar com tempo de devolução ou danificar o mesmo poderá ser baixado no mesmo um cópia do boleto referente a mensalidade o arquivo seque no formato de PDF para facilitar a visualização.  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 7. Considerações Finais
 
 Esse documento buscou trazer informações mais detalhadas sobre os problemas dos alunos da instituição, foram realizadas pesquisas pelos integrantes do grupo com pessoas que sofriam com problemas similares aos problemas destacados.
@@ -118,13 +91,7 @@ Esse documento buscou trazer informações mais detalhadas sobre os problemas dos 
 Após a análise do problema, foram estudados os possíveis meios de encontrar uma solução. A forma mais viável de obter êxito foi pela decisão da criação de um aplicativo, onde poderíamos oferecer suporte de materiais didáticos, possibilidade de observar a grade de aulas do dia e poder emitir o boleto referente ao pagamento da parcela do mês.
 
     
-8. Referências
-
-
-
-http://www.unibratec.edu.br/tecnologus/wp-content/uploads/2010/12/melo.pdf
-
-http://www.designculture.com.br/metodologias-do-design-xdm-extensible-design-methods
+Esse é um arquivo de teste.
 
 
 
